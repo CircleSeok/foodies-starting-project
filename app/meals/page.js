@@ -34,5 +34,3 @@ export default function MealsPage() {
     </>
   );
 }
-
-//이렇게 분리 함으로써 우리는 데이터 가져오는 부분을 분리된 컴포넌트로 아웃소싱함
